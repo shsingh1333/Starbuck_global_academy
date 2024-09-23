@@ -1,0 +1,45 @@
+header{
+    height: 60px;
+    width: 75%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 170px;
+
+}
+.option_nav{
+ 
+
+    font-size: 18 px;
+  
+    width: 600px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#select_nav{
+    border: none;  
+   font-size:18px;
+}
+.btn_nav{
+  
+    width: 230px;
+    margin-left: 30px;
+}
+#b1_nav,#b2_nav{
+    background-color: white;
+
+    height: 40px;
+    border-radius: 25px; ;
+    font-size: 18px;
+    
+    border-color: rgb(16, 74, 16);
+}
+#b1_nav{color: white;
+    background-color: rgb(16, 74, 16);
+}
+#b2_nav:hover{color: white;
+    background-color: rgb(16, 74, 16);
+}

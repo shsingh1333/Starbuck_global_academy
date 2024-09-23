@@ -1,0 +1,53 @@
+#a_feature{
+    background-color: #29413b;
+    height: 4px;
+    width: 60px;
+}
+    .main_box_feature{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-evenly;
+        width: 100%;
+
+        
+       /* 
+        height: 900px;*/
+    }
+    #btn_feature{
+        border-radius: 20px;
+        background-color: white;
+        padding: 10px 20px;
+    }
+   #h1_feature{text-align: center;
+        color: green;
+    }
+    
+    .box1_feature,.box2_feature,.box3_feature{
+height: 620px;
+width: 400px;
+border-color: rgb(237, 232, 232);
+border-style: solid;
+
+
+    }
+    .box1_feature:hover,.box2_feature:hover,.box3_feature:hover{
+        box-shadow:0 0 10px grey ;
+    }
+    .box0_feature{
+        margin-left: 15px;
+        margin-right: 15px;
+        width: 350px ;
+     
+    }
+    #btn_view_all_courses_feature{
+        border-radius: 20px;
+        background-color: rgb(16, 74, 16);
+        padding: 10px 25px;
+        color: white;
+        font-size: large;
+        margin-left: 42%;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        
+
+    }

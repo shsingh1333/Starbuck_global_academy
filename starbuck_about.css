@@ -1,0 +1,37 @@
+.parent_about{
+    display: flex;
+    
+    height: 600px;
+    width: 1150px;
+    margin-left: 200px;
+    margin-top: 80px;
+    font-size: 19px;
+   
+}
+.box1_about{
+
+height: 500px;
+width: 600px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 30px;
+border-style: solid;
+border-radius: 40px;
+border-color: rgb(200, 200, 200);
+
+}
+.box2_about{
+   
+    height: 600px;
+    width: 960px;
+    padding-left: 50px;
+    text-align: center;
+    font-size: larger;
+}
+#a_box2_about{
+    color: green;
+}
+#b_box1_about{
+    font-size: 19px;
+    line-height: 30px;
+}
