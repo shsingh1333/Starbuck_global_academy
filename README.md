@@ -1,3 +1,3 @@
 # Starbuck_global_academy
-In zip file there is separate page of html and css, you need to extrat all, then they will get connected.
+In zip file there is separate page of html and css, you need to extrat all, then they will get connected.<br/>
 <img src="./assets/HOME PAGE.png" />
